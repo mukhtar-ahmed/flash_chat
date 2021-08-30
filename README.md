@@ -18,5 +18,7 @@ How to create custom aniamtions using Flutter's animation controller.
 Learn all about mixins and how they differ from superclasses.
 
 Learn about Streams and how they work.
+
 Learn to use ListViews to build scrolling views.
+
 How to use Firebase Cloud Firestore to store and retrieve data on the fly.
